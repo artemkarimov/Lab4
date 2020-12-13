@@ -1,0 +1,18 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comics"
+    },
+    {
+      "id": 2,
+      "name": "Figures"
+    }
+  ],
+  "prices": [
+    {
+      "comicID": 1,
+      "price": 2.99
+    }
+  ]
+}
