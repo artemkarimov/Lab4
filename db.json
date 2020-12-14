@@ -19,6 +19,7 @@
   "products": [
     {
       "url": "dc1",
+      "productID": 1,
       "name": "Superman #16",
       "price": 2.99,
       "year": 2017,
@@ -26,7 +27,86 @@
       "written": "Patrick Gleason",
       "art": "Mick Gray",
       "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!"
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": [2, 3, 4]
+    },
+    {
+      "url": "dc2",
+      "productID": 2,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
+    },
+    {
+      "url": "dc3",
+      "productID": 3,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
+    },
+    {
+      "url": "dc4",
+      "productID": 4,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
+    },
+    {
+      "url": "dc5",
+      "productID": 5,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
+    },
+    {
+      "url": "dc6",
+      "productID": 6,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
+    },
+    {
+      "url": "dc7",
+      "productID": 7,
+      "name": "Superman #16",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": []
     }
   ]
 }
