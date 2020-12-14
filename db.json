@@ -1,20 +1,4 @@
 {
-  "categories": [
-    {
-      "id": 1,
-      "name": "Comics"
-    },
-    {
-      "id": 2,
-      "name": "Figures"
-    }
-  ],
-  "prices": [
-    {
-      "comicID": 1,
-      "price": 2.99
-    }
-  ],
   "orders": [],
   "products": [
     {
@@ -27,86 +11,86 @@
       "written": "Patrick Gleason",
       "art": "Mick Gray",
       "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? And should they help their boy use his new and rapidly increasing abilities, or hide them from the world? Don’t miss these stories from Superman #16!",
       "relatedProducts": [2, 3, 4]
     },
     {
       "url": "dc2",
       "productID": 2,
-      "name": "Superman #16",
-      "price": 2.99,
-      "year": 2017,
+      "name": "Green Lantern #1",
+      "price": 4.99,
+      "year": 2020,
       "language": "English",
-      "written": "Patrick Gleason",
-      "art": "Mick Gray",
-      "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "written": "Grant Morrison",
+      "art": "Liam Sharp",
+      "cover": "Liam Sharp",
+      "description": "The team of writer Grant Morrison and artist Liam Sharp continue their bold new take on the Emerald Warrior in a wild 30-page second season opener! In the wake of the Blackstar incursion, Hal Jordan and his fellow Lanterns must pick up the pieces from that cataclysmic conclusion. Among them is Jordan’s next critical mission: search for the next generation of cosmic immortals. Is the universe ready for…the Young Guardians?",
+      "relatedProducts": [3, 4, 5]
     },
     {
       "url": "dc3",
       "productID": 3,
-      "name": "Superman #16",
+      "name": "Wonder Woman #30",
       "price": 2.99,
-      "year": 2017,
+      "year": 2018,
       "language": "English",
-      "written": "Patrick Gleason",
-      "art": "Mick Gray",
-      "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "written": "Shea Fontana",
+      "art": "David Messina",
+      "cover": "Jesús Merino",
+      "description": "'Heart of the Amazon' finale! Wonder Woman may be a warrior, but she’s nobody’s weapon—as the mysterious cabal that’s been trying to manipulate her is about to learn!",
+      "relatedProducts": [4, 5, 6]
     },
     {
-      "url": "dc4",
+      "url": "comics3",
       "productID": 4,
-      "name": "Superman #16",
-      "price": 2.99,
-      "year": 2017,
+      "name": "Batman #90",
+      "price": 3.99,
+      "year": 2020,
       "language": "English",
-      "written": "Patrick Gleason",
-      "art": "Mick Gray",
-      "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "written": "Tom King",
+      "art": "Jorge Jimenez",
+      "cover": "Carlo Pagulayan",
+      "description": "The mysterious master criminal known only as the Designer once brought together Gotham City’s greatest criminals to plot the perfect crime, and now his plan has been unleashed upon the city in all its might. Batman will go to any length to uncover the grand design, but Catwoman is the one who holds the greatest secret. If Batman wins against the Designer, he will lose everything.",
+      "relatedProducts": [5, 6, 7]
     },
     {
       "url": "dc5",
       "productID": 5,
-      "name": "Superman #16",
-      "price": 2.99,
-      "year": 2017,
+      "name": "The Flash #751",
+      "price": 3.99,
+      "year": 2020,
       "language": "English",
       "written": "Patrick Gleason",
       "art": "Mick Gray",
       "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "description": "The Flash battles Godspeed as “Flash Age” continues! In this issue, Paradox enlists Godspeed in his mission to erase the Flash legacy from existence! But when Godspeed’s allegiance comes into question, Paradox proves he may be the strongest foe Barry Allen’s ever faced!",
+      "relatedProducts": [6, 7, 1]
     },
     {
-      "url": "dc6",
+      "url": "comics2",
       "productID": 6,
-      "name": "Superman #16",
-      "price": 2.99,
-      "year": 2017,
+      "name": "Batman #91",
+      "price": 3.99,
+      "year": 2019,
       "language": "English",
-      "written": "Patrick Gleason",
-      "art": "Mick Gray",
-      "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "written": "Joshua Williamson",
+      "art": "Christian Duce",
+      "cover": "Christian Duce",
+      "description": "To save Gotham City, Catwoman will have to commit the greatest heist in the city’s history! But hot on her trail are the Penguin, the Riddler, a horde of assassins, and the master criminal called the Designer! And the most dangerous person standing in her way is the man she’s trying to save: Batman. And what complications will his arise from his new sidekick, Harley Quinn?",
+      "relatedProducts": [7, 1, 2]
     },
     {
       "url": "dc7",
       "productID": 7,
-      "name": "Superman #16",
-      "price": 2.99,
-      "year": 2017,
+      "name": "Batman: Three Jokers #1",
+      "price": 6.99,
+      "year": 2020,
       "language": "English",
-      "written": "Patrick Gleason",
-      "art": "Mick Gray",
-      "cover": "Doug Mahnke",
-      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! <br> Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! <br> However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? <br> And should they help their boy use his new and rapidly increasing abilities, <br> or hide them from the world? Don’t miss these stories from Superman #16!",
-      "relatedProducts": []
+      "written": "Geoff Johns",
+      "art": "Jason Fabok",
+      "cover": "Brad Anderson",
+      "description": "Thirty years after Batman: The Killing Joke changed comics forever, Three Jokers reexamines the myth of who, or what, The Joker is and what is at the heart of his eternal battle with Batman. New York Times bestselling writer Geoff Johns and Jason Fabok, the writer/artist team that waged the “Darkseid War” in the pages of Justice League, reunite to tell the ultimate story of Batman and The Joker!",
+      "relatedProducts": [1, 2, 3]
     }
   ]
 }
