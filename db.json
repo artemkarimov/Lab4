@@ -107,7 +107,6 @@
       "relatedProducts": [1, 2, 3]
     },
     {
-    {
       "url": "mar1",
       "productID": 13,
       "name": "Invincible Iron Man #600",
@@ -391,36 +390,6 @@
       "cover": "Brad Anderson",
       "description": "",
       "relatedProducts": [37, 38, 32]
-    },
-    {
-      "url": "dh6",
-      "productID": 37,
-      "name": "Black Hammer #6",
-      "image": "images/dh6.jpg",
-      "type": "Comic Book",
-      "price": 6.99,
-      "year": 2020,
-      "language": "English",
-      "written": "Geoff Johns",
-      "art": "Jason Fabok",
-      "cover": "Brad Anderson",
-      "description": "",
-      "relatedProducts": [38, 32, 33]
-    },
-    {
-      "url": "dh7",
-      "productID": 38,
-      "name": "Adventures of the Mask #2",
-      "image": "images/dh7.jpg",
-      "type": "Comic Book",
-      "price": 6.99,
-      "year": 2020,
-      "language": "English",
-      "written": "Geoff Johns",
-      "art": "Jason Fabok",
-      "cover": "Brad Anderson",
-      "description": "",
-      "relatedProducts": [32, 33, 34]
     }
   ]
 }
