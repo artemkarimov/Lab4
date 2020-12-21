@@ -1,0 +1,1071 @@
+{
+  "orders": [],
+  "products": [
+    {
+      "url": "product/dc1",
+      "productID": 1,
+      "category": "dc",
+      "categoryName": "DC Comics",
+      "name": "Superman #16",
+      "publisher": "DC Comics",
+      "image": "images/dc1.jpg",
+      "type": "Comic Book",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "After the stunning events of DC REBIRTH, the world is left without Superman! Luckily, there is another Man of Steel to fill his shoes: the pre-Flashpoint Kal-El! However, can this new Superman protect the world while raising a super-son with his wife, Lois Lane? And should they help their boy use his new and rapidly increasing abilities, or hide them from the world? Don’t miss these stories from Superman #16!",
+      "relatedProducts": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "url": "product/dc2",
+      "productID": 2,
+      "category": "dc",
+      "name": "Green Lantern #1",
+      "publisher": "DC Comics",
+      "image": "images/dc2.jpg",
+      "type": "Comic Book",
+      "price": 4.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Grant Morrison",
+      "art": "Liam Sharp",
+      "cover": "Liam Sharp",
+      "description": "The team of writer Grant Morrison and artist Liam Sharp continue their bold new take on the Emerald Warrior in a wild 30-page second season opener! In the wake of the Blackstar incursion, Hal Jordan and his fellow Lanterns must pick up the pieces from that cataclysmic conclusion. Among them is Jordan’s next critical mission: search for the next generation of cosmic immortals. Is the universe ready for…the Young Guardians?",
+      "relatedProducts": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "url": "product/dc3",
+      "productID": 3,
+      "category": "dc",
+      "name": "Wonder Woman #30",
+      "publisher": "DC Comics",
+      "image": "images/dc3.jpg",
+      "type": "Comic Book",
+      "price": 2.99,
+      "year": 2018,
+      "language": "English",
+      "written": "Shea Fontana",
+      "art": "David Messina",
+      "cover": "Jesús Merino",
+      "description": "'Heart of the Amazon' finale! Wonder Woman may be a warrior, but she’s nobody’s weapon—as the mysterious cabal that’s been trying to manipulate her is about to learn!",
+      "relatedProducts": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "url": "product/dc4",
+      "productID": 4,
+      "category": "dc",
+      "name": "Batman #90",
+      "publisher": "DC Comics",
+      "image": "images/dc4.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Tom King",
+      "art": "Jorge Jimenez",
+      "cover": "Carlo Pagulayan",
+      "description": "The mysterious master criminal known only as the Designer once brought together Gotham City’s greatest criminals to plot the perfect crime, and now his plan has been unleashed upon the city in all its might. Batman will go to any length to uncover the grand design, but Catwoman is the one who holds the greatest secret. If Batman wins against the Designer, he will lose everything.",
+      "relatedProducts": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "url": "product/dc5",
+      "productID": 5,
+      "category": "dc",
+      "name": "The Flash #751",
+      "publisher": "DC Comics",
+      "image": "images/dc5.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Patrick Gleason",
+      "art": "Mick Gray",
+      "cover": "Doug Mahnke",
+      "description": "The Flash battles Godspeed as “Flash Age” continues! In this issue, Paradox enlists Godspeed in his mission to erase the Flash legacy from existence! But when Godspeed’s allegiance comes into question, Paradox proves he may be the strongest foe Barry Allen’s ever faced!",
+      "relatedProducts": [
+        6,
+        7,
+        1
+      ]
+    },
+    {
+      "url": "product/dc6",
+      "productID": 6,
+      "category": "dc",
+      "name": "Batman #91",
+      "publisher": "DC Comics",
+      "image": "images/dc6.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2019,
+      "language": "English",
+      "written": "Joshua Williamson",
+      "art": "Christian Duce",
+      "cover": "Christian Duce",
+      "description": "To save Gotham City, Catwoman will have to commit the greatest heist in the city’s history! But hot on her trail are the Penguin, the Riddler, a horde of assassins, and the master criminal called the Designer! And the most dangerous person standing in her way is the man she’s trying to save: Batman. And what complications will his arise from his new sidekick, Harley Quinn?",
+      "relatedProducts": [
+        7,
+        1,
+        2
+      ]
+    },
+    {
+      "url": "product/dc7",
+      "productID": 7,
+      "category": "dc",
+      "name": "Batman: Three Jokers #1",
+      "publisher": "DC Comics",
+      "image": "images/dc7.jpg",
+      "type": "Comic Book",
+      "price": 6.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Geoff Johns",
+      "art": "Jason Fabok",
+      "cover": "Brad Anderson",
+      "description": "Thirty years after Batman: The Killing Joke changed comics forever, Three Jokers reexamines the myth of who, or what, The Joker is and what is at the heart of his eternal battle with Batman. New York Times bestselling writer Geoff Johns and Jason Fabok, the writer/artist team that waged the “Darkseid War” in the pages of Justice League, reunite to tell the ultimate story of Batman and The Joker!",
+      "relatedProducts": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "url": "product/dcgn1",
+      "productID": 8,
+      "category": "dc",
+      "name": "Batman: The Killing Joke",
+      "publisher": "DC Comics",
+      "image": "images/dcgn1.jpg",
+      "type": "Graphic Novel",
+      "price": 13.99,
+      "year": 1988,
+      "language": "English",
+      "written": "Alan Moore",
+      "art": "Brian Bolland",
+      "cover": "John Higgins",
+      "description": "Created by Moore, Bolland, and Higgins as their own take on the Joker's source and psychology, the story became famous for its origin of the Joker as a tragic character; a family man and failed comedian who suffered 'one bad day' that finally drove him insane. Moore stated that he attempted to show the similarities and contrasts between Batman and the Joker.",
+      "relatedProducts": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "url": "product/dcgn2",
+      "productID": 9,
+      "category": "dc",
+      "name": "Watchmen",
+      "publisher": "DC Comics",
+      "image": "images/dcgn2.jpg",
+      "type": "Graphic Novel",
+      "price": 12.99,
+      "year": 1986,
+      "language": "English",
+      "written": "Alan Moore",
+      "art": "Dave Gibbons",
+      "cover": "John Higgins",
+      "description": "Watchmen is set in an alternate reality that closely mirrors the contemporary world of the 1980s. The primary difference is the presence of superheroes. The point of divergence occurs in the year 1938. Their existence in this version of the United States is shown to have dramatically affected and altered the outcomes of real-world events such as the Vietnam War and the presidency of Richard Nixon.",
+      "relatedProducts": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "url": "product/dcgn3",
+      "productID": 10,
+      "category": "dc",
+      "name": "Crisis on Infinite Earths",
+      "publisher": "DC Comics",
+      "image": "images/dcgn3.jpg",
+      "type": "Graphic Novel",
+      "price": 20.99,
+      "year": 1985,
+      "language": "English",
+      "written": "Marv Wolfman",
+      "art": "George Pérez",
+      "cover": "Anthony Tollin",
+      "description": "At the start of Crisis on Infinite Earths, the Anti-Monitor (the Monitor's evil counterpart) is unleashed on the DC Multiverse and begins to destroy the various Earths that it comprises. The Monitor tries to recruit heroes from around the Multiverse but is murdered, while Brainiac collaborates with the villains to conquer the remaining Earths. However, both the heroes and villains are eventually united by the Spectre; the series concludes with Kal-L, Superboy-Prime and Alexander Luthor Jr. defeating the Anti-Monitor and the creation of a single Earth in place of the Multiverse.",
+      "relatedProducts": [
+        11,
+        12,
+        8
+      ]
+    },
+    {
+      "url": "product/dcgn4",
+      "productID": 11,
+      "category": "dc",
+      "name": "Batman: Year One",
+      "publisher": "DC Comics",
+      "image": "images/dcgn4.jpg",
+      "type": "Graphic Novel",
+      "price": 15.99,
+      "year": 1987,
+      "language": "English",
+      "written": "Frank Miller",
+      "art": "David Mazzucchelli",
+      "cover": "Todd Klein",
+      "description": "Batman: Year One originally appeared in issues #404–407 of the comic book title Batman in 1987. As well as recounting Batman's beginnings and early years in his crime-fighting career, the story simultaneously examines the life of recently transferred Gotham police detective James Gordon – eventually building towards their first encounter and their eventual alliance against Gotham's criminal underworld. ",
+      "relatedProducts": [
+        12,
+        8,
+        9
+      ]
+    },
+    {
+      "url": "product/dcgn5",
+      "productID": 12,
+      "category": "dc",
+      "name": "Blackest Night",
+      "publisher": "DC Comics",
+      "image": "images/dcgn5.jpg",
+      "type": "Graphic Novel",
+      "price": 9.99,
+      "year": 2009,
+      "language": "English",
+      "written": "Geoff Johns",
+      "art": "Ivan Reis",
+      "cover": "Ivan Reis",
+      "description": "Green Lanterns Ash and Saarek find the Black Central Power Battery at a reportedly classified location within Sector 666. After touching the battery, Saarek reports that their presence has awoken something. The two are killed when two monstrous hands emerge from below them as the battery calls 'flesh'. In Green Lantern Corps, a field of asteroids in an unknown region of space is depicted with the colors of the spectrum in the background. ",
+      "relatedProducts": [
+        8,
+        9,
+        12
+      ]
+    },
+    {
+      "url": "product/mar1",
+      "productID": 13,
+      "category": "marvel",
+      "categoryName": "Marvel Comics",
+      "name": "Invincible Iron Man #600",
+      "publisher": "Marvel Comics",
+      "image": "images/mar1.jpg",
+      "type": "Comic Book",
+      "price": 5.99,
+      "year": 2016,
+      "language": "English",
+      "written": "Brian Michael Bendis",
+      "art": "David Marquez",
+      "cover": "Chris Sprouse",
+      "description": "Tony Stark is back, but in what form? At least five huge surprises await new and old fans alike. Industry legend Brian Michael Bendis drops his final Marvel Comic to end an era, and he’s going out big! ",
+      "relatedProducts": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "url": "product/mar2",
+      "productID": 14,
+      "category": "marvel",
+      "name": "Capitain America #1",
+      "publisher": "Marvel Comics",
+      "image": "images/mar2.jpg",
+      "type": "Comic Book",
+      "price": 4.99,
+      "year": 2019,
+      "language": "English",
+      "written": "Ralph Macchio",
+      "art": "John Romita",
+      "cover": "Jen Bartel",
+      "description": "Captain America throws his mighty shield as we celebrate the House of Ideas’ 80th anniversary with the latest issue of the era-spanning MARVEL TALES! This anthology series shines a spotlight on fanfavorite characters, features timeless stories and highlights some of the most impressive talent from the past eight decades.",
+      "relatedProducts": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "url": "product/mar3",
+      "productID": 15,
+      "category": "marvel",
+      "name": "Thor #1",
+      "publisher": "Marvel Comics",
+      "image": "images/mar3.jpg",
+      "type": "Comic Book",
+      "price": 4.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Martin Morales",
+      "art": "Nic Klein",
+      "cover": "Olivier Coipel",
+      "description": "The prince is now a king. All Asgard lies before Thor, the God of Thunder. And after many months of war, the Ten Realms are finally at peace. But the skies above the Realm Eternal are never clear for long. The Black Winter is coming.",
+      "relatedProducts": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "url": "product/mar4",
+      "productID": 16,
+      "category": "marvel",
+      "name": "The Amazing Spider-Man #42",
+      "publisher": "Marvel Comics",
+      "image": "images/mar4.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2018,
+      "language": "English",
+      "written": "Nick Spencer",
+      "art": "Ryan Ottley",
+      "cover": "Ryan Ottley",
+      "description": "Well, knowing what Boomerang is doing sure didn’t help. Spidey and Boomerang are in trouble in a VERY BIG WAY.",
+      "relatedProducts": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "url": "product/mar5",
+      "productID": 17,
+      "category": "marvel",
+      "name": "Black Widow #1",
+      "publisher": "Marvel Comics",
+      "image": "images/mar5.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Kelly Thompson",
+      "art": "Elena Casagrande",
+      "cover": "Adam Hughes",
+      "description": "Natasha Romanoff has been a spy almost as long as she’s been alive. And she’s never stopped running, whether she was working for the good guys…or the bad. But Natasha’s world is about to be upended.",
+      "relatedProducts": [
+        18,
+        19,
+        13
+      ]
+    },
+    {
+      "url": "product/mar6",
+      "productID": 18,
+      "category": "marvel",
+      "name": "Spider-Woman #1",
+      "publisher": "Marvel Comics",
+      "image": "images/mar6.jpg",
+      "type": "Comic Book",
+      "price": 4.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Karla Pacheco",
+      "art": "Paulo Siqueira",
+      "cover": "Artgerm Lau",
+      "description": "When the angry, irritable, and unwell Spider-Woman takes a simple security gig to help get back on her feet, she finds herself besieged by unknown forces out to destroy everything around her. What’s wrong with Jessica? Just how DID she get this job? And who are these violent lunatics who keep trying to blow her up? WHO CARES? Does Spider-Woman have someone to punch? THAT’S ALL THAT MATTERS.",
+      "relatedProducts": [
+        19,
+        13,
+        14
+      ]
+    },
+    {
+      "url": "product/mar7",
+      "productID": 19,
+      "category": "marvel",
+      "name": "The Avengers #10",
+      "publisher": "Marvel Comics",
+      "image": "images/mar7.jpg",
+      "type": "Comic Book",
+      "price": 5.99,
+      "year": 2018,
+      "language": "English",
+      "written": "Jason Aaron",
+      "art": "Frazer Irving",
+      "cover": "Ed Mcguinness",
+      "description": "After 700 issues of saving the world, you’d think the Avengers would be due some celebration. But instead the whole world seems to be gunning for them, especially Namor’s fearsome new Defenders of the Deep and the reimagined Russian Super-Soldiers of the Winter Guard. And that’s not to mention the shocking surprise the U.S. government has in store for our heroes.",
+      "relatedProducts": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "url": "product/margn1",
+      "productID": 20,
+      "category": "marvel",
+      "name": "Civil War",
+      "publisher": "Marvel Comics",
+      "image": "images/margn1.jpg",
+      "type": "Graphic Novel",
+      "price": 14.99,
+      "year": 2007,
+      "language": "English",
+      "written": "Mark Millar",
+      "art": "Steve McNiven",
+      "cover": "Morry Hollowell",
+      "description": "The plot of the series follows a framework story line in which the U.S. government passes a Superhero Registration Act, ostensibly designed to have super powered individuals act under official regulation, somewhat akin to law enforcement. However, superheroes opposed to the act, led by Captain America, find themselves in conflict with those supporting the act, led by Iron Man, with Spider-Man caught in the middle; the X-Men take a neutral stance. The superheroes in support of the law, such as Iron Man, Mister Fantastic and Ms. Marvel, become increasingly authoritarian. ",
+      "relatedProducts": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "url": "product/margn2",
+      "productID": 21,
+      "category": "marvel",
+      "name": "X-Men: Dark Phoenics Saga",
+      "publisher": "Marvel Comics",
+      "image": "images/margn2.jpg",
+      "type": "Graphic Novel",
+      "price": 18.99,
+      "year": 2001,
+      "language": "English",
+      "written": "Chris Claremont",
+      "art": "John Byrne",
+      "cover": "John Byrne",
+      "description": "Gathered together by Professor Charles Xavier to protect a world that fears and hates them, the X-Men had fought many battles, been on adventures that spanned galaxies, grappled enemies of limitless might, but none of this could prepare them for the most shocking struggle they would ever face. One of their own members, Jean Grey, has gained power beyond all comprehension, and that power has corrupted her absolutely! Now they must decide if the life of the woman they cherish is worth the existence of the entire universe!",
+      "relatedProducts": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "url": "product/margn3",
+      "productID": 22,
+      "category": "marvel",
+      "name": "Spider-Man No More",
+      "publisher": "Marvel Comics",
+      "image": "images/margn3.jpg",
+      "type": "Graphic Novel",
+      "price": 29.99,
+      "year": 1967,
+      "language": "English",
+      "written": "Stan Lee",
+      "art": "John Romita",
+      "cover": "John Romita",
+      "description": "Peter Parker quits being Spider-Man because he gets no respect no matter how many people he saves. When he throws his costume in the garbage, some kid finds it and brings it to J. Jonah Jameson, chief of the Daily Bugle Building. While Peter is enjoying life not being Spider-Man, a new crime lord called Kingpin rises.",
+      "relatedProducts": [
+        23,
+        24,
+        20
+      ]
+    },
+    {
+      "url": "product/margn4",
+      "productID": 23,
+      "category": "marvel",
+      "name": "Planet Hulk",
+      "publisher": "Marvel Comics",
+      "image": "images/margn4.jpg",
+      "type": "Graphic Novel",
+      "price": 13.99,
+      "year": 2008,
+      "language": "English",
+      "written": "Greg Pak",
+      "art": "Carlo Pagulayan",
+      "cover": "Aaron Lopresti",
+      "description": "Sold into slavery, Hulk becomes the Green Scar, the planet's mightiest gladiator - but his new masters get more than they bargained for when he forges a bond of brotherhood with his fellow fighters: crafty insectoid Miek, the horrific Brood, wise rock-man Korg, shadow warrior Hiroim, noble-born rebel Elloe and her loyal guardsman Skee. Together, these gladiators start a revolution that could change their entire world - or destroy it!",
+      "relatedProducts": [
+        24,
+        20,
+        21
+      ]
+    },
+    {
+      "url": "product/margn5",
+      "productID": 24,
+      "category": "marvel",
+      "name": "Wolverine: Old Man Logan",
+      "publisher": "Marvel Comics",
+      "image": "images/margn5.jpg",
+      "type": "Graphic Novel",
+      "price": 17.99,
+      "year": 2010,
+      "language": "English",
+      "written": "Mark Millar",
+      "art": "Steve McNiven",
+      "cover": "Steve McNiven",
+      "description": "For 50 years, no one has heard hide nor hair from him...and in his place stands an old man called Logan. A man concerned only about his family. A man pushed to the brink by the HULK GANG. A man forced to help an old friend--the blind archer, HAWKEYE--drive three thousand miles to secure his family's safety. Get ready for the ride of your life, Logan.",
+      "relatedProducts": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "url": "product/im1",
+      "productID": 25,
+      "category": "image",
+      "categoryName": "Image Comics",
+      "name": "Invincible #42",
+      "publisher": "Image Comics",
+      "image": "images/im1.jpg",
+      "type": "Comic Book",
+      "price": 13.99,
+      "year": 2007,
+      "language": "English",
+      "written": "Robert Kirkman",
+      "art": "Bill Crabtree",
+      "cover": "Ryan Ottley",
+      "description": "Ever thought about trying Invincible but just haven't gotten around to it? Now is your chance! This special introductory issue features the start of a brand new story-arc, and is an excelent jumping-on point for new readers.",
+      "relatedProducts": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "url": "product/im2",
+      "productID": 26,
+      "category": "image",
+      "name": "Spawn #300",
+      "publisher": "Image Comics",
+      "image": "images/im2.jpg",
+      "type": "Comic Book",
+      "price": 7.99,
+      "year": 2019,
+      "language": "English",
+      "written": "Todd McFarlane",
+      "art": "J. Scott Campbell",
+      "cover": "Todd McFarlane",
+      "description": "SPAWN MAKES HISTORY! With this 300th issue, Spawn becomes the longest-running independent series in comic book history.",
+      "relatedProducts": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "url": "product/im3",
+      "productID": 27,
+      "category": "image",
+      "name": "Deadly Class #2",
+      "publisher": "Image Comics",
+      "image": "images/im3.jpg",
+      "type": "Comic Book",
+      "price": 3.5,
+      "year": 2014,
+      "language": "English",
+      "written": "Rick Remender",
+      "art": "Wes Craig",
+      "cover": "Wes Craig",
+      "description": "It's Marcus's first day at the Kings Dominion High School for the Deadly Arts. A locker full of death threats, a schedule full of brutality, and whispers in the hallway about his mysterious past...which is fast catching up to cut out his freshly broken heart.",
+      "relatedProducts": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "url": "product/im4",
+      "productID": 28,
+      "category": "image",
+      "name": "Chew #60",
+      "publisher": "Image Comics",
+      "image": "images/im4.jpg",
+      "type": "Comic Book",
+      "price": 5.99,
+      "year": 2016,
+      "language": "English",
+      "written": "John Layman",
+      "art": "Rob Guillory",
+      "cover": "Rob Guillory",
+      "description": "Last issue. Double sized. Trifold cover. Epilogue.",
+      "relatedProducts": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "url": "product/im5",
+      "productID": 29,
+      "category": "image",
+      "name": "The Walking Dead #180",
+      "publisher": "Image Comics",
+      "image": "images/im5.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2018,
+      "language": "English",
+      "written": "Robert Kirkman",
+      "art": "Cliff Rathburn",
+      "cover": "Charlie Adlard",
+      "description": "'NEW WORLD ORDER' Conclusion: Rick Grimes comes face to face with the Governor of the Commonwealth.",
+      "relatedProducts": [
+        30,
+        31,
+        25
+      ]
+    },
+    {
+      "url": "product/im6",
+      "productID": 30,
+      "category": "image",
+      "name": "Monstress #18",
+      "publisher": "Image Comics",
+      "image": "images/im6.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2018,
+      "language": "English",
+      "written": "Marjorie Liu",
+      "art": "Sana Takeda",
+      "cover": "Sana Takeda",
+      "description": "Will Maika be able to stop the tide of violence that threatens Pontus and the Known World?",
+      "relatedProducts": [
+        31,
+        25,
+        26
+      ]
+    },
+    {
+      "url": "product/im7",
+      "productID": 31,
+      "category": "image",
+      "name": "Saga #44",
+      "publisher": "Image Comics",
+      "image": "images/im7.jpg",
+      "type": "Comic Book",
+      "price": 2.99,
+      "year": 2017,
+      "language": "English",
+      "written": "Brian K. Vaughan",
+      "art": "Fiona Staples",
+      "cover": "Fiona Staples",
+      "description": "Hazel and her family search for elusive treasure: affordable healthcare.",
+      "relatedProducts": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "url": "product/dh1",
+      "productID": 32,
+      "category": "darkhorse",
+      "categoryName": "Dark Horse Comics",
+      "name": "Bill and Ted Are Doomed #1",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh1.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2020,
+      "language": "English",
+      "written": "Evan Dorkin",
+      "art": "Roger Langridge",
+      "cover": "Evan Dorkin",
+      "description": "After defeating the evil dictator De Nomolos in Bogus Journey in 1995, things aren't looking as excellent as they should for either Bill and Ted or Wyld Stallyns. There's tension in the band and worry at home. Bill and Ted's obsessiveness with writing the one song to bring peace to the world is affecting their playing and their relationships with their families.",
+      "relatedProducts": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "url": "product/dh2",
+      "productID": 33,
+      "category": "darkhorse",
+      "name": "Aliens: Dead Orbit #4",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh2.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2017,
+      "language": "English",
+      "written": "James Stokoe",
+      "art": "James Stokoe",
+      "cover": "James Stokoe",
+      "description": "With one last gambit aboard the space station, Wascylewski finds himself ambushed by two more deadly xenomorphs that will stop at nothing until hes dead",
+      "relatedProducts": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "url": "product/dh3",
+      "productID": 34,
+      "category": "darkhorse",
+      "name": "Colder #5",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh3.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2013,
+      "language": "English",
+      "written": "Paul Tobin",
+      "art": "Juan Ferrerya",
+      "cover": "Juan Ferrerya",
+      "description": "A mental patient battles insanity incarnate in a horrific finale to this mind-bending series. From the creative team behind the Falling Skies comics!",
+      "relatedProducts": [
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "url": "product/dh4",
+      "productID": 35,
+      "category": "darkhorse",
+      "name": "The Ambrella Academy #1",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh4.jpg",
+      "type": "Comic Book",
+      "price": 2.99,
+      "year": 2015,
+      "language": "English",
+      "written": "Gerard Way",
+      "art": "Gabriel Ba",
+      "cover": "Gabriel Ba",
+      "description": "Once, the Umbrella Academy was unstoppable. Under the tutelage of their guardian and mentor, Dr. Reginald Hargreeves, its members spent their childhoods fighting evil and honing their extraordinary gifts.",
+      "relatedProducts": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "url": "product/dh5",
+      "productID": 36,
+      "category": "darkhorse",
+      "name": "Hellboy #3",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh5.jpg",
+      "type": "Comic Book",
+      "price": 3.5,
+      "year": 2016,
+      "language": "English",
+      "written": "Mike Mignola",
+      "art": "Paolo Rivera",
+      "cover": "Paolo Rivera",
+      "description": "If you’ve never read a page of Hellboy — this is not a bad place to start. Adventures in Poor Taste Man’s best friend becomes Hellboy’s worst nightmare in a Cold War–era mission.",
+      "relatedProducts": [
+        37,
+        38,
+        32
+      ]
+    },
+    {
+      "url": "product/dh6",
+      "productID": 37,
+      "category": "darkhorse",
+      "name": "Black Hammer #6",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh6.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2016,
+      "language": "English",
+      "written": "Jeff Lemire",
+      "art": "Dean Ormston",
+      "cover": "Dave Stewart",
+      "description": "Madame Dragonfly has been harboring dark secrets for hundreds of years, keeping them locked up in the mysterious Cabin of Horrors. Now that her cabin is trapped on Black Hammer Farm, the only secrets she can collect are the broken hearts of small-town folk. But the arrival of a new visitor to the farm will change everything.",
+      "relatedProducts": [
+        38,
+        32,
+        33
+      ]
+    },
+    {
+      "url": "product/dh7",
+      "productID": 38,
+      "category": "darkhorse",
+      "name": "Adventures of the Mask #2",
+      "publisher": "Dark Horse Comics",
+      "image": "images/dh7.jpg",
+      "type": "Comic Book",
+      "price": 6.99,
+      "year": 1996,
+      "language": "English",
+      "written": "Michael Eury",
+      "art": "Neil Vokes",
+      "cover": "Bruce Timm",
+      "description": "Stanley Ipkiss is knee-deep in trouble literally! Having thrown away the mask, Stanley finds himself stuck in cement, about to be crushed by the mute man-mountain known as Walter! Does our hero turned zero have any hope?",
+      "relatedProducts": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "url": "product/dyn1",
+      "productID": 39,
+      "category": "dynamite",
+      "categoryName": "Dynamite Comics",
+      "name": "Vampirella #11",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn1.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2011,
+      "language": "English",
+      "written": "Jeremy Whitley",
+      "art": "Rapha Lobosco",
+      "cover": "Rapha Lobosco",
+      "description": "While on route to their first international adventure, Vampirella and Sofia are summoned to the German countryside. They're tasked with security detail for a sacred ceremony, but the original mission becomes something entirely different once they reach their destination. it's a mind-bending tale of demons, denial and dark secret fears!",
+      "relatedProducts": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "url": "product/dyn2",
+      "productID": 40,
+      "category": "dynamite",
+      "name": "Masks #1",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn2.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2012,
+      "language": "English",
+      "written": "Chris Roberson",
+      "art": "Alex Ross",
+      "cover": "Alex Ross",
+      "description": "Before superheroes, there were Masks! The Shadow, the Green Hornet, Kato, the Spider and more in a story that only Dynamite could tell! For the first time ever, these masked vigilantes are joining together in on epic series!",
+      "relatedProducts": [
+        41,
+        42,
+        43
+      ]
+    },
+    {
+      "url": "product/dyn3",
+      "productID": 41,
+      "category": "dynamite",
+      "name": "Turok #1",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn3.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2014,
+      "language": "English",
+      "written": "Greg Pak",
+      "art": "Mirko Colak",
+      "cover": "Mirko Colak",
+      "description": "Shunned from his tribe, a young Native American named Turok fights to survive, making a lonely life for himself in the unforgiving forest. But his hard-won cunning and survival skills face the ultimate test when man-eating thunder lizards attack his people! Why are dinosaurs here? How have they survived? And will Turok use his abilities to save a society that's taken everything away from him?",
+      "relatedProducts": [
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "url": "product/dyn4",
+      "productID": 42,
+      "category": "dynamite",
+      "name": "The Boys #53",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn4.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2011,
+      "language": "English",
+      "written": "Garth Ennis",
+      "art": "John McCrea",
+      "cover": "Darick Robertson",
+      "description": "Christmas 1944 sees Captain Greg Mallory safely in reserve, far from the front line with Nazi Germany. A good time to rest and refit, to recover from the horrors of war. Not such a good time for a unit of very special soldiers backed by the Vought-American-Consolidated corp to show up looking for combat experience. Hughie gets a war story he'll never forget,",
+      "relatedProducts": [
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "url": "product/dyn5",
+      "productID": 43,
+      "category": "dynamite",
+      "name": "Kiss #1",
+      "image": "images/dyn5.jpg",
+      "publisher": "Dynamite Comics",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2016,
+      "language": "English",
+      "written": "Amy Chu",
+      "art": "Kewbar Baal",
+      "cover": "Fernando Ruiz",
+      "description": "KISS is back! Back to the FUTURE in this dark sci-fi adventure. In a world without sun and a world without heroes, four young friends embark on a dangerous mission - to uncover the truth about the mysterious Council of Elders and their underground home, the city of Blackwell. But first they need some help from the past...",
+      "relatedProducts": [
+        44,
+        45,
+        39
+      ]
+    },
+    {
+      "url": "product/dyn6",
+      "productID": 44,
+      "category": "dynamite",
+      "name": "A Clash of Kings #1",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn6.jpg",
+      "type": "Comic Book",
+      "price": 3.99,
+      "year": 2017,
+      "language": "English",
+      "written": "George R. R. Martin",
+      "art": "Mel Rubi",
+      "cover": "Mike Miller",
+      "description": "Following the events of A Game of Thrones, Westeros is embroiled in civil war, while Daenerys Targaryen, as heir to the Targaryen dynasty, seeks to reclaim the Iron Throne. Arya, with the help of Yoren, a brother of the Night's Watch, has escaped from King's Landing, but the road to the Wall brings its own dangers.",
+      "relatedProducts": [
+        45,
+        39,
+        40
+      ]
+    },
+    {
+      "url": "product/dyn7",
+      "productID": 45,
+      "category": "dynamite",
+      "name": "The Boys #28",
+      "publisher": "Dynamite Comics",
+      "image": "images/dyn7.jpg",
+      "type": "Comic Book",
+      "price": 2.99,
+      "year": 2009,
+      "language": "English",
+      "written": "Garth Ennis",
+      "art": "John Higgins",
+      "cover": "Darick Robertson",
+      "description": "Butcher has warned Hughie to quit his undercover activities, so what's he doing at Silver Kincaid's memorial service? Godolkin oversteps the mark, MM stumbles onto something dreadful, and much to her delight the Female gets to follow Frenchie into action.",
+      "relatedProducts": [
+        39,
+        40,
+        41
+      ]
+    }
+  ],
+  "specialOffers": [
+    {
+      "url": "action1",
+      "specialOfferID": 1,
+      "image": "images/slide1.jpg",
+      "name": "Batman Toys",
+      "discount": 60,
+      "description": "Get all Batman family members toys with a huge discount! The set includes two figures of Batman, one of Nightwing, Robin, The Joker, Harley Quinn and Man-Bat.",
+      "price": 16.99,
+      "oldPrice": 40.99
+    },
+    {
+      "url": "action2",
+      "specialOfferID": 2,
+      "image": "images/slide2.jpg",
+      "name": "5 for the Price of 2 #1",
+      "discount": 60,
+      "description": "Get five fascinating comics with a huge discount! Cyborg, Avengers, Ant-Man, Rocket Ruccoon and All-New X-Men. Pay just for two but get five.",
+      "price": 7.99,
+      "oldPrice": 19.95
+    },
+    {
+      "url": "action3",
+      "specialOfferID": 3,
+      "image": "images/slide3.jpg",
+      "name": "5 for the Price of 2 #2",
+      "discount": 60,
+      "description": "Get five fascinating comics with a huge discount! Two Batman comics, All-New Batman, Batwoman and Batman Incorporated. Pay just for two but get five.",
+      "price": 7.99,
+      "oldPrice": 19.99
+    },
+    {
+      "url": "action4",
+      "specialOfferID": 4,
+      "image": "images/slide4.jpg",
+      "name": "The Boys Board Game",
+      "discount": 40,
+      "description": "Get the board game based on one of the most popular comics published by Dynamite Comics with a big discount. Chose the character that you like the most and enjoy the game.",
+      "price": 20.99,
+      "oldPrice": 33.99
+    },
+    {
+      "url": "action5",
+      "specialOfferID": 5,
+      "image": "images/slide5.jpg",
+      "name": "Painting with Comics Characters",
+      "discount": 30,
+      "description": "Get the painting with some of the most popular comics characters with a big discount. Batman, Spider-Man, The Flash, Superman, Hulk, Iron Man, Deadpool and others.",
+      "price": 20.99,
+      "oldPrice": 14.99
+    }
+  ],
+  "catalogue": [
+    {
+      "url": "category/dc",
+      "category": "DC Comics",
+      "products": [
+        1,
+        2,
+        3,
+        5,
+        7
+      ]
+    },
+    {
+      "url": "category/marvel",
+      "category": "Marvel Comics",
+      "products": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "url": "category/image",
+      "category": "Image Comics",
+      "products": [
+        25,
+        26,
+        27,
+        29,
+        31
+      ]
+    },
+    {
+      "url": "category/darkhorse",
+      "category": "Dark Horse Comics",
+      "products": [
+        32,
+        33,
+        34,
+        36,
+        38
+      ]
+    },
+    {
+      "url": "category/dynamite",
+      "category": "Dynamite Comics",
+      "products": [
+        39,
+        40,
+        41,
+        43,
+        45
+      ]
+    }
+  ],
+  "topFiveProducts": [
+    18,
+    6,
+    4,
+    5,
+    15
+  ]
+}
