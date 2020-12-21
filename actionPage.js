@@ -2,6 +2,10 @@
 
 const view = specialOffers => {
   const action = specialOffers.find(so => so.url === window.location.hash.split('/')[1]);
+  if (!action) {
+    window.location.hash = '#';
+    return;
+  }
   return `<div class="product">
     <img src="${action.image}" alt="" class="special_offer_img">
     <div class="product_description_so">
