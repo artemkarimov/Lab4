@@ -1,0 +1,929 @@
+body {
+  margin: 0;
+  height: 120vh;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.menu {
+  height: 8vh;
+  width: 100%;
+  background-color: rgb(58, 55, 55);
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  z-index: 10;
+  top: 0;
+}
+
+.logo_name {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.logo {
+  margin-top: 1vh;
+  margin-left: 15vw;
+  height: 6vh;
+}
+
+.name {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-top: 2vh;
+}
+
+.links {
+  margin-left: 10vw;
+  margin-top: 2.5vh;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 4vh;
+  margin-top: 2vh;
+  font-size: 2.5vh;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.shoppingcart {
+  margin-top: 1.5vh;
+  margin-left: 3vw;
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  z-index: 5;
+}
+
+.shoppingcart img {
+  height: 5vh;
+  border-radius: 4px;
+}
+
+.circle {
+  position: absolute;
+  top: -10px;
+  left: 40px;
+  width: 20px;
+  height: 20px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 25px;
+  background: #f80000;
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.specialOffers {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  margin-top: 10vh;
+  height: 60vh;
+}
+
+.container {
+  overflow: hidden;
+  height: 100%;
+  height: 100%;
+}
+
+.slides {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 500%;
+  height: 100%;
+}
+
+.so {
+  height: 100%;
+  width: 20%;
+  transition: 0.5s;
+}
+
+.link1,
+.link2,
+.link3,
+.link4,
+.link5 {
+  position: absolute;
+  background-color: rgb(195, 195, 195);;
+  text-decoration: none;
+  color: black;
+  transition: 0.5s;
+  font-size: 28px;
+  font-weight: 800;
+  padding: 10px;
+  border-radius: 20px;
+  opacity: 0.9;
+}
+
+.link1 {
+  left: 12%;
+  top: 80%;
+}
+
+.link2 {
+  left: 28%;
+  top: 80%;
+}
+
+.link3 {
+  left: 48%;
+  top: 80%;
+}
+
+.link4 {
+  left: 60.2%;
+  top: 90%;
+}
+
+.link5 {
+  left: 88%;
+  top: 82%;
+}
+
+.link1:hover,
+.link2:hover,
+.link3:hover,
+.link4:hover,
+.link5:hover {
+  opacity: 1;
+  background-color: white;
+}
+
+.radios {
+  margin-top: 1vh;
+  margin-left: 40%;
+}
+
+.radios input {
+  margin-left: 2%;
+  cursor: pointer;
+}
+
+input[type='radio']:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #d1d3d1;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1px solid rgb(139, 134, 134);
+}
+
+input[type='radio']:checked:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #3b3b3b;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1px solid #3b3b3b;
+}
+
+.top5 {
+  margin-top: 7vh;
+}
+
+.title {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2.5vw;
+}
+
+.comics_image {
+  height: 400px;
+  width: 300px;
+  margin-right: 2vw;
+  margin-left: 2vw;
+  margin-top: 1vh;
+  border-radius: 5px;
+}
+
+.comics_image:hover {
+  transform: scale(1.1); 
+}
+
+ul {
+  list-style: none;
+}
+
+.number {
+  margin-top: 3vh;
+  font-size: 19px;
+  text-align: center;
+}
+
+.description {
+  font-size: 19px;
+  text-align: center;
+}
+
+.box {
+  width: 330px;
+  height: 650px;
+  border-radius: 10px;
+  background-color: #e7e7e7;
+  box-shadow: 2px 10px 12px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 10px; 
+}
+
+.box:hover {
+  background-color:rgb(241, 237, 237);
+  box-shadow: 2px 10px 12px rgba(0, 0, 0, 0.705);
+}
+
+.comic_book {
+  font-size: 20px;
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.comic_book:hover {
+  transform: scale(1.04);
+  text-decoration: underline;
+}
+
+.add {
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
+
+.add:hover {
+  transform: scale(1.05);
+  background-color: rgb(175, 0, 0);
+}
+
+.info_logo {
+  display: flex;
+  flex-direction: row;
+}
+
+.about_us {
+  margin-top: 3vh;
+  text-align: center;
+}
+
+.information {
+  padding-left: 15vw;
+  font-weight: 500;
+}
+
+.catalogue {
+  text-decoration: none;
+  color: blue
+}
+
+.catalogue:hover {
+  text-decoration: underline;
+}
+
+.contact {
+  text-decoration: none;
+  color: blue
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  height: 20vh;
+  width: 100vw;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto 0;
+}
+
+.footer1 {
+  padding-left: 15vw;
+}
+
+.footer_name {
+  color: grey;
+  padding-top: 1vh;
+}
+
+.footer_years {
+  color: grey;
+  padding-left: 1vw;
+}
+
+.footer2 {
+  padding-left: 5vw;
+  color: grey;
+}
+
+.payment {
+  height: 70px;
+}
+
+.logo3 img {
+  height: 80px;
+}
+
+.footer3 {
+  padding-left: 5vw;
+  padding-top: 1vh;
+  color: grey;
+}
+
+.footer4 {
+  padding-left: 5vw;
+  padding-top: 1vh;
+  color: grey;
+}
+
+.publishers {
+  display: flex;
+  flex-direction: column;
+}
+
+.publishers a {
+  text-decoration: none;
+  color: grey;
+  font-size: 18px;
+}
+
+.publishers a:hover {
+  text-decoration: underline;
+  color: grey;
+}
+
+.logo3 {
+  margin-top: 1vh;
+  margin-left: 5vw;
+}
+
+.cataloguePage {
+  text-align: center;
+  margin-top: 10vh;
+  color: black;
+}
+
+.divider {
+  background-color: black;
+  width: 100vw;
+  height: 0.3vh;
+  margin-bottom: 3vh;
+}
+
+.categoryName {
+  text-align: center;
+  font-size: 2.7vh;
+  margin-left: 46.5vw;
+  font-weight: 600;
+  margin-top: 2vh;
+  cursor: pointer;
+  color: black;
+  text-decoration: none;
+}
+
+.categoryName:hover {
+  text-decoration: underline;
+}
+
+.catalogueBox {
+  width: 230px;
+  height: 450px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 10px; 
+}
+
+.comic_book_catalogue {
+  font-size: 18px;
+  cursor: pointer;
+  padding-top: 2vh;
+  color: black;
+  text-decoration: none;
+}
+
+.comic_book_catalogue:hover {
+  transform: scale(1.04);
+  text-decoration: underline;
+}
+
+.catalogueBox:hover .addCatalogue {
+  opacity: 1;
+}
+
+.addCatalogue {
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 17px;
+  padding: 7px;
+  background-color: rgb(31, 197, 9);
+  color: white;
+  opacity: 0;
+}
+
+.addCatalogue:hover {
+  transform: scale(1.05);
+  background-color: rgb(0, 128, 32);
+}
+
+.comics_image_catalogue {
+  height: 300px;
+  width: 225px;
+  margin-right: 1vw;
+  margin-left: 1vw;
+  margin-top: 1vh;
+  border-radius: 5px;
+}
+
+.comics_image_catalogue:hover {
+  transform: scale(1.1); 
+}
+
+.descriptionCatalogue {
+  font-size: 18px;
+  text-align: center;
+}
+
+.comicsInCatalogue {
+  margin-left: 13vw;
+}
+
+.comicsInCategory {
+  margin-left: -1vw;
+}
+
+.gnInCatalogue {
+  margin-left: 13vw;
+}
+
+.section {
+  text-align: center;
+  font-size: 2.7vh;
+}
+
+.addCategory {
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 17px;
+  padding: 7px;
+  background-color: rgb(0, 110, 255);
+  color: white;
+  opacity: 0;
+}
+
+.addCategory:hover {
+  transform: scale(1.05);
+  background-color: rgb(0, 11, 168);
+}
+
+.catalogueBox:hover .addCategory {
+  opacity: 1;
+}
+
+.oneSection {
+  margin-bottom: 10vh;
+}
+
+/* .pp_container {
+  margin-top: 10vh;
+  margin-bottom: 5vh;
+} */
+
+.product {
+  display: flex;
+  flex-direction: row;
+}
+
+/* .pp_container img {
+  height: 600px;
+  margin-left: 5vw;
+} */
+
+.pp_container img {
+  height: 600px;
+  margin-left: 5vw;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.product_description {
+  margin-left: 5vw;
+  margin-top: 7vh;
+  text-align: left;
+  width: 40vw;
+}
+
+.descr {
+  padding-top: 5vh;
+  font-size: 2.2vh;
+}
+
+.descrpoint {
+  font-size: 2.2vh;
+}
+
+.to_buy_box {
+  width: 200px;
+  height: 150px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: 1px solid rgb(121, 121, 121);
+  box-shadow: 2px 10px 2px rgba(206, 206, 206, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin-top: 10vh;
+  font-size: 2.2vh;
+}
+
+.to_buy_box:hover {
+  background-color:rgb(248, 248, 248);
+  box-shadow: 2px 10px 12px rgba(128, 127, 127, 0.4);
+}
+
+.addBox {
+  border-radius: 2px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 22px;
+  font-weight: 800;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: rgb(0, 122, 41);
+  color: white;
+  opacity: 1;
+}
+
+.addBox:hover {
+  background-color: rgb(0, 161, 54);
+}
+
+.rel {
+  text-align: center;
+}
+
+.related_comics {
+  margin-left: 25.5vw;
+}
+
+.special_offer_img {
+  margin-left: 2vw;
+  margin-top: 10vh;
+  margin-bottom: 11vh;
+  height: 60vh;
+}
+
+.disc {
+  color: red;
+  font-size: 5vh;
+  font-weight: 800;
+  margin-left: 5vw;
+}
+
+.box_price1 {
+  margin-bottom: 0vh;
+  font-size: 2.5vh;
+}
+
+.box_price2 {
+  margin-top: 0vh;
+  text-decoration: line-through;
+  font-size: 2.5vh;
+  color: grey;
+}
+
+.product_description_so {
+  margin-left: 2vw;
+  margin-top: 6vh;
+  text-align: left;
+  width: 25vw;
+}
+
+.descrip {
+  padding-top: 5vh;
+  font-size: 2.6vh;
+}
+
+.so_name {
+  font-size: 5vh;
+}
+
+.to_buy_box_so {
+  width: 200px;
+  height: 170px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: 1px solid rgb(121, 121, 121);
+  box-shadow: 2px 10px 2px rgba(206, 206, 206, 0.2);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  margin-top: 10vh;
+  font-size: 2.2vh;
+}
+
+.to_buy_box_so:hover {
+  background-color:rgb(248, 248, 248);
+  box-shadow: 2px 10px 12px rgba(128, 127, 127, 0.4);
+}
+
+.box_sc {
+  width: 70vw;
+  height: 20vh;
+  border-radius: 2px;
+  background-color: #f3f3f3;
+  box-shadow: 2px 10px 12px rgba(100, 100, 100, 0.5);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 10px;
+  margin-bottom: 2vh;
+  margin-left: 14vw;
+}
+
+.box_sc:hover {
+  background-color:rgb(241, 237, 237);
+  box-shadow: 2px 10px 12px rgba(0, 0, 0, 0.705);
+}
+
+.box_sc:hover .remove {
+  opacity: 1;
+}
+
+.sc_product {
+  height: 18vh;
+  margin-left: 1vw;
+  margin-top: 1vh;
+}
+
+.sc_product:hover {
+  transform: scale(1.05);
+}
+
+.sc_name {
+  margin-left: 1vw;
+  margin-top: 1vh;
+  width: 32vh;
+}
+
+.quantity {
+  margin-left: 10vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.count_box_container {
+  width: 10vw;
+  height: 4vw;
+  display: flex;
+  flex-direction: row;
+  margin-left: 3.2vw;
+  margin-top: 1.5vh;
+}
+
+.count_box_container:hover .minus_button {
+  opacity: 1;
+}
+
+.count_box_container:hover .plus_button {
+  opacity: 1;
+}
+
+.count_box {
+  width: 3vw;
+  height: 2vw;
+  border-radius: 3px;
+  background-color: #ffffff;
+  align-items: center;
+  box-sizing: border-box;
+  margin: 0px 10px 0px 10px;
+  margin-bottom: 2vh;
+  margin-left: 1vw;
+  text-align: center;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.minus_button {
+  border: none;
+  background-color: #f3f3f3;
+  height: 2vh;
+  font-size: 3vh;
+  opacity: 0;
+  cursor: pointer;
+  outline: none;
+  margin-right: -0.5vw;
+}
+
+.plus_button {
+  border: none;
+  background-color: #f3f3f3;
+  height: 3vh;
+  font-size: 3vh;
+  opacity: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+.number_sc {
+  text-align: center;
+  margin-top: 0.5vh;
+  font-size: 2.5vh;
+}
+
+.quan_name {
+  margin-left: 3.2vw;
+  margin-top: 1vh;
+}
+
+.cost_name {
+  margin-left: 5vw;
+  margin-top: 1vh;
+}
+
+.cost_sc {
+  margin-left: 5vw;
+  margin-top: 1.8vh;
+  font-size: 2.8vh;
+}
+
+.total {
+  text-align: center;
+}
+
+.makeOrder {
+  margin-left: 46vw;
+  border: none;
+  font-size: 3.2vh;
+  outline: none;
+  cursor: pointer;
+  margin-bottom: 3.1vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  background-color: green;
+  color: white;
+  font-weight: 700;
+}
+
+.makeOrder:hover {
+  background-color: rgb(10, 165, 10);
+}
+
+.email:hover {
+  text-decoration: underline;
+}
+
+.email:hover {
+  cursor: pointer;
+}
+
+.field {
+  margin-left: 39vw;
+  font-size: 2vh;
+  outline: none;
+}
+
+.fieldName {
+  margin-left: 48vw;
+  font-size: 3vh;
+}
+
+.confirm {
+  margin-left: 46vw;
+  border: none;
+  font-size: 3.2vh;
+  outline: none;
+  margin-bottom: 2vh;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  background-color: green;
+  color: white;
+  font-weight: 700;
+  opacity: 0.5;
+}
+
+.order_accepted {
+  margin-top: 35vh;
+  margin-left: 40vw;
+  font-size: 4vh;
+}
+
+.order_accepted_ty {
+  margin-left: 33.5vw;
+  font-size: 4vh;
+}
+
+.backButton {
+  margin-left: 44vw;
+  border: none;
+  font-size: 2.3vh;
+  outline: none;
+  padding-left: 3vh;
+  padding-right: 3vh;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  background-color: green;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  margin-bottom: 26.1vh;
+}
+
+.backButton:hover {
+  background-color: rgb(7, 214, 0);
+}
+
+.remove {
+  width: 32px;
+  height: 32px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: rgb(235, 230, 230);
+  position: absolute;
+  left: -3vh;
+  opacity: 0;
+}
+
+.remove:before, .remove:after {
+  position: absolute;
+  left: 84.8vw;
+  content: ' ';
+  height: 33px;
+  width: 2px;
+  background-color: #333;
+}
+
+.remove:before {
+  transform: rotate(45deg);
+}
+
+.remove:after {
+  transform: rotate(-45deg);
+}
+
+.rm {
+  margin-top: -1.9vh;
+  background-color: inherit;
+}
+
+.loader {
+  margin-top: 35vh;
+  margin-left: 43vw;
+  margin-bottom: 19vh;
+}
+
+.required {
+  margin-left: 46vw;
+  font-size: 2.5vh;
+}
+
+.empty_cart {
+  margin-top: 45vh;
+  margin-left: 44vw;
+}
