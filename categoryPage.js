@@ -3,6 +3,10 @@
 const view = products => {
   const category = window.location.hash.split('/')[1];
   const categoryProducts = products.filter(product => product.category === category);
+  if (!categoryProducts.length) {
+    window.location.hash = '#';
+    return;
+  }
   const comics = [];
   const graphicNovels = [];
   if (categoryProducts.length > 7) {
