@@ -2,6 +2,10 @@
 
 const view = products => {
   const product = products.find(product => product.url === window.location.hash.slice(1));
+  if (!product) {
+    window.location.hash = '#';
+    return;
+  }
   const relatedPtoducts = products.filter(prod => product.relatedProducts.includes(prod.productID));
   return `<div class="product">
       <div class="pp_container" id="pp_container">
