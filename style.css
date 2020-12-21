@@ -521,26 +521,19 @@ ul {
   margin-bottom: 10vh;
 }
 
-/* .pp_container {
+.pp_container {
   margin-top: 10vh;
   margin-bottom: 5vh;
-} */
+}
 
 .product {
   display: flex;
   flex-direction: row;
 }
 
-/* .pp_container img {
-  height: 600px;
-  margin-left: 5vw;
-} */
-
 .pp_container img {
   height: 600px;
   margin-left: 5vw;
-  transform: translate(-50%, -50%);
-  pointer-events: none;
 }
 
 .product_description {
